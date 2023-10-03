@@ -1,5 +1,6 @@
 import React from 'react';
 import data from './Data'; // Import the data from Data.js
+import "./home.css"
 
 export default function Home() {
   // return <div>Hello World from Home</div>;
